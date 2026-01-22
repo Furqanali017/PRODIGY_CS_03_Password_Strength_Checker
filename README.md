@@ -15,4 +15,4 @@ The tool provides feedback to help users improve password security.
 
 ## 🚀 How to Run
 ```bash
-python password_checker.py
+python task3.py
